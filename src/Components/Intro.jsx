@@ -31,7 +31,7 @@ const Intro=()=>{
           <motion.img 
           initial={{ y: 0 }} // Initial position
           animate={{ y: [0, 50, 0] }} // Animate from y=0 to y=50 and back to y=0
-          transition={{ duration: 2, repeat: Infinity, repeatType: 'loop' }} src="src/assets/—Pngtree—aerospace astronaut cartoon illustration_4524462.png"></motion.img>
+          transition={{ duration: 2, repeat: Infinity, repeatType: 'loop' }} src="/assets/—Pngtree—aerospace astronaut cartoon illustration_4524462.png"></motion.img>
         </ImageContainer>
       </Container>
      
